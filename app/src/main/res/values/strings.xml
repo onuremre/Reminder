@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Hatırlatma</string>
+    <string name="start_date">Başlangıç Tarihi</string>
+    <string name="start_time">Başlangıç Saati</string>
+    <string name="finish_date">Bitiş Tarihi</string>
+    <string name="finish_time">Bitiş Saati</string>
+    <string name="alarm_date">Alarm Tarihi</string>
+    <string name="alarm_time">Alarm Saati</string>
+    <string name="subject">Konu</string>
+    <string name="context">Açıklama</string>
+    <string name="mail_status">Mail Gönder</string>
+    <string name="mail_subject">Mail Konusu</string>
+    <string name="mail_context">Mail Açıklaması</string>
+    <string name="accept">Ekle</string>
+    <string name="cancel">İptal</string>
+    <string name="update">Güncelle</string>
+    <string name="back">Geri</string>
+    <string name="choose">Seç</string>
+    <string name="time_picker">Saat Seçimi</string>
+    <string name="date_picker">Tarih Seçimi</string>
+    <string name="create_reminder">Etkinlik Oluşturuldu</string>
+    <string name="delete_reminder">Etkinlik Silindi</string>
+    <string name="update_reminder">Etkinlik Güncellendi</string>
+    <string name="login">Giriş</string>
+    <string name="singup">Kayıt Ol</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="password">Şifre</string>
+    <string name="password2">Şifre - Tekrar</string>
+    <string name="mail">Mail Adresi</string>
+    <string name="blank">Lütfen tüm alanları eksiksiz doldurun</string>
+    <string name="wrong_login">Kullanıcı adı veya şifre yanlış</string>
+    <string name="passwords_not_equal">Şifreler uyuşmuyor</string>
+    <string name="singup_succesfull">Kayıt başarılı. Lütfen giriş yapın</string>
+
+</resources>
